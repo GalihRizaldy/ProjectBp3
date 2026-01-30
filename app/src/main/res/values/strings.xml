@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Prakiraan Cuaca</string>
+    <string name="location_label">Lokasi Anda</string>
+    <string name="loading_dots">...</string>
+    <string name="default_temp">00</string>
+    <string name="celsius_unit">°C</string>
+    <string name="loading_text">Memuat...</string>
+    <string name="forecast_label">Ramalan Cuaca</string>
+    <string name="today">Hari ini</string>
+    <string name="clear">Cerah</string>
+    <string name="tomorrow">Besok</string>
+    <string name="moderate_rain">Hujan Sedang</string>
+    <string name="day_after_tomorrow">Lusa</string>
+    <string name="more_details">Rincian Lainnya</string>
+    <string name="forecast_24h">Ramalan 24 jam</string>
+    <string name="warning_label">Peringatan</string>
+    <string name="earthquake_safe">Gempa Bumi: Aman</string>
+    <string name="tsunami_safe">Tsunami: Aman</string>
+    <string name="check_info">Cek Info</string>
+    <string name="humidity_placeholder">Kelembaban    95%</string>
+    <string name="wind_placeholder">Angin             2.5 m/s</string>
+    <string name="uv_placeholder">UV                    2</string>
+    <string name="air_quality_placeholder">Kualitas Udara    145</string>
+    <string name="date_placeholder">Senin, 20 / 12 / 2025</string>
+    <string name="time_placeholder">07 : 30 : 20</string>
+    
+    <!-- Halaman Tambah -->
+    <string name="add_page_title">Tambah</string>
+    <string name="select_region_label">PILIH WILAYAH</string>
+    <string name="input_region_label">Masukan Wilayah</string>
+    <string name="input_region_hint">Kuningan. 32.12.1002</string>
+    <string name="current_location_label">Pilih Lokasi Saat Ini</string>
+    <string name="activate_hint">Aktifkan</string>
+    <string name="searching_location">Mencari lokasi...</string>
+    <string name="dialog_input_region_title">Masukan Kode Wilayah (ADM4)</string>
+    <string name="dialog_input_region_message">Contoh: 32.08.09.1002 (Kuningan)</string>
+    <string name="dialog_save">Simpan</string>
+    <string name="dialog_cancel">Batal</string>
+
+    <!-- Halaman Setting -->
+    <string name="setting_page_title">Setting</string>
+    <string name="unit_section">DASAR</string>
+    <string name="temp_unit_label">Satuan Suhu</string>
+    <string name="temp_unit_value">Celcius</string>
+    <string name="wind_unit_label">Satuan Kecepatan Angin</string>
+    <string name="wind_unit_value">m / s</string>
+
+    <string name="time_section">WAKTU</string>
+    <string name="timezone_label">Sesuaikan Zona</string>
+    <string name="timezone_value">WIB</string>
+
+    <string name="more_info_section">INFORMASI TAMBAHAN</string>
+    <string name="feedback_label">Masukan</string>
+    <string name="privacy_label">Kebijakan Privasi</string>
+    <string name="notif_label">Aktifkan Notifikasi</string>
+
+    <string name="developer_section">INFORMASI DEVELOPER</string>
+    <string name="dev_name">Galih Rizaldy</string>
+    <string name="dev_email">galihrizaldi47@gmail.com</string>
+</resources>
